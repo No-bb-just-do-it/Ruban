@@ -29,8 +29,4 @@ ink_fountain.test()
 ```
 
 
-------------------
 
-
-## Donate
-![Donate](https://raw.githubusercontent.com/RubanSeven/Ruban/master/docs/images/donate.jpg)
